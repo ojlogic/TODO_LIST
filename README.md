@@ -57,7 +57,6 @@ To get started with the project, follow these steps:
 │   ├── Dockerfile
 │   ├── requirements.txt
 │   └── wsgi.py
-├── Commands.md
 ├── database
 │   ├── Dockerfile
 │   └── init_db.sh
@@ -96,14 +95,13 @@ To get started with the project, follow these steps:
 │       │   │   └── Title.tsx
 │       │   └── types.ts
 │       └── tsconfig.json
-├── main.py
 ├── nginx
 │   └── nginx.conf
-├── __pycache__
-│   └── main.cpython-38.pyc
 └── README.md
-```
 
+```
+---
+ 
 ## License
 
 This project is intended for educational purposes only and is not licensed for commercial use.
