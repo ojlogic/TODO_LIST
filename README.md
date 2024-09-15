@@ -3,7 +3,7 @@
 
 # Task List Application
 
-![Stack](https://img.shields.io/badge/stack-PostgreSQL%20%7C%20Python%20%7C%20Gunicorn%20%7C%20Nginx%20%7C%20Docker-blue)
+![Stack](https://img.shields.io/badge/stack-PostgreSQL%20%7C%20Python%20%7C%20Gunicorn%20%7C%20Nginx%20%7C%20Docker%20%7C%20TypeScript-blue)
 
 ## Description
 
